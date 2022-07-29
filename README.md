@@ -11,7 +11,7 @@ Issue https://github.com/nandorojo/dripsy/issues/218
 ## Expected bahavior
 React Navigation Header is displayed at the top of the page (Actually it works as expected on expo snack even thought it uses exactly same dependencies)
 
-[Snack link](https://snack.expo.dev/D8Tv2cKCS)
+[Snack link](https://snack.expo.dev/@mokuzuzz/dripsy-react-navigation-issue-218)
 ![Screen Shot 2022-07-29 at 10 20 20 am](https://user-images.githubusercontent.com/41939914/181658037-b1bbae6f-2e92-4a67-93de-14a4af660832.png)
 
 
